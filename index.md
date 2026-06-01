@@ -44,6 +44,7 @@
 - [[raw/policies/2025-smart-factory-gradient-cultivation-notice|📋 六部门关于开展2025年度智能工厂梯度培育行动的通知]] — 工信厅联通装函〔2025〕251号，基础级→领航级四层培育
 - [[raw/policies/2025-smart-factory-element-conditions|🏭 智能工厂梯度培育要素条件（2025年版）]] — 四个层级具体建设要求、KPI参考
 - [[raw/policies/2025-smart-manufacturing-scenario-guide|🔧 智能制造典型场景参考指引（2025年版）]] — 8环节40个场景定义与要素条件映射
+- [[raw/policies/xinte-smart-factory-scenario-mapping|🎯 新特能源卓越级全要素对标方案]] — 25个数字化场景逐项对标分析
 
 ## Queries
 
