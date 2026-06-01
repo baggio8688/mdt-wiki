@@ -2,7 +2,7 @@
 
 > 内容目录。所有 wiki 页面按类型列出，附一行摘要。
 > 查询前先读此页，找到相关页面。
-> Last updated: 2026-05-31 | Total pages: 12
+> Last updated: 2026-06-01 | Total pages: 15
 
 ## Entities
 
@@ -36,6 +36,14 @@
 <!-- 对比分析页 -->
 
 - [[comparisons/ai-governance-vs-automation-gap|AI治理 vs 自动化鸿沟]] — 技术采用的两种视角：先解决基础设施，再用治理保障规模化
+
+## Policies
+
+<!-- 政策文件解读页 -->
+
+- [[raw/policies/2025-smart-factory-gradient-cultivation-notice|📋 六部门关于开展2025年度智能工厂梯度培育行动的通知]] — 工信厅联通装函〔2025〕251号，基础级→领航级四层培育
+- [[raw/policies/2025-smart-factory-element-conditions|🏭 智能工厂梯度培育要素条件（2025年版）]] — 四个层级具体建设要求、KPI参考
+- [[raw/policies/2025-smart-manufacturing-scenario-guide|🔧 智能制造典型场景参考指引（2025年版）]] — 8环节40个场景定义与要素条件映射
 
 ## Queries
 

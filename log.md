@@ -28,3 +28,10 @@
 - 创建 entities/rsm.md — RSM
 - 创建 comparisons/ai-governance-vs-automation-gap.md — AI治理 vs 自动化鸿沟
 - 更新 index.md — 添加Entities/Concepts/Comparisons章节，Total pages: 12
+
+## [2026-06-01] ingest | 智能工厂梯度培育政策文件入库
+- 创建 raw/policies/2025-smart-factory-gradient-cultivation-notice.md — 251号通知解读
+- 创建 raw/policies/2025-smart-factory-element-conditions.md — 要素条件（2025年版）
+- 创建 raw/policies/2025-smart-manufacturing-scenario-guide.md — 场景参考指引
+- 复制8个原始文件到 raw/policies/assets/（3PDF + 5DOCX + 1HTML）
+- 更新 index.md — 添加Policies章节，Total pages: 15
