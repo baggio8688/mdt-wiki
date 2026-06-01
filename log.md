@@ -39,3 +39,7 @@
 |## [2026-06-01] ingest | 新特能源卓越级全要素对标方案
 |- 创建 raw/policies/xinte-smart-factory-scenario-mapping.md — 5大环节25个数字化场景逐项对标
 |- 更新 index.md — 添加对标方案链接，Total pages: 16
+|-
+|## [2026-06-01] ingest | 新特能源场景实例清单
+|- 创建 raw/policies/xinte-scenario-instance-checklist.md — 八大类35个场景实例，直接可用的申报素材
+|- 更新 index.md — 添加实例清单链接，Total pages: 17
