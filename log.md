@@ -35,11 +35,12 @@
 - 创建 raw/policies/2025-smart-manufacturing-scenario-guide.md — 场景参考指引
 - 复制8个原始文件到 raw/policies/assets/（3PDF + 5DOCX + 1HTML）
 - 更新 index.md — 添加Policies章节，Total pages: 15
-|-
-|## [2026-06-01] ingest | 新特能源卓越级全要素对标方案
-|- 创建 raw/policies/xinte-smart-factory-scenario-mapping.md — 5大环节25个数字化场景逐项对标
-|- 更新 index.md — 添加对标方案链接，Total pages: 16
-|-
-|## [2026-06-01] ingest | 新特能源场景实例清单
-|- 创建 raw/policies/xinte-scenario-instance-checklist.md — 八大类35个场景实例，直接可用的申报素材
-|- 更新 index.md — 添加实例清单链接，Total pages: 17
+
+## [2026-06-01] ingest | 新特能源卓越级全要素对标方案
+- 创建 raw/policies/xinte-smart-factory-scenario-mapping.md — 5大环节25个数字化场景逐项对标
+- 更新 index.md — 添加对标方案链接，Total pages: 16
+
+## [2026-06-01] update | 新特能源场景实例清单修订
+- 核定版重写：35个场景精简合并为20个，每个赋予具体实例名称
+- 突出安环/设备/生产/质量四大域基于工业互联网平台的一体化管控
+- 更新 index.md — 总页面数不变

@@ -45,7 +45,7 @@
 - [[raw/policies/2025-smart-factory-element-conditions|🏭 智能工厂梯度培育要素条件（2025年版）]] — 四个层级具体建设要求、KPI参考
 - [[raw/policies/2025-smart-manufacturing-scenario-guide|🔧 智能制造典型场景参考指引（2025年版）]] — 8环节40个场景定义与要素条件映射
 - [[raw/policies/xinte-smart-factory-scenario-mapping|🎯 新特能源卓越级全要素对标方案]] — 25个数字化场景逐项对标分析
-- [[raw/policies/xinte-scenario-instance-checklist|📋 新特能源场景实例清单 — 八大类35个实例]] — 直接可用的申报场景实例表
+- [[raw/policies/xinte-scenario-instance-checklist|📋 新特能源场景实例清单（核定版） — 20个场景，突出安环/设备/生产/质量一体化管控]]
 
 ## Queries
 
