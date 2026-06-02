@@ -1,0 +1,126 @@
+# MkDocs Material 配置 — 制造业数字化转型知识库
+# 内容位于 docs/ 子目录，符合 MkDocs 标准布局
+docs_dir: docs/
+
+site_name: 制造业数字化转型知识库
+site_description: 制造业数字化、智能制造、工业4.0知识管理与研究
+site_author: baggio8688
+site_url: https://baggio8688.github.io/mdt-wiki/
+repo_url: https://github.com/baggio8688/mdt-wiki
+repo_name: baggio8688/mdt-wiki
+edit_uri: blob/main/
+
+theme:
+  name: material
+  language: zh
+  icon:
+    logo: fontawesome/solid/industry
+    repo: fontawesome/brands/github
+  favicon: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.icons/fontawesome/solid/industry.svg
+  palette:
+    # 浅色模式
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 切换为深色模式
+    # 深色模式
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 切换为浅色模式
+  features:
+    - navigation.tabs          # 顶部导航标签
+    - navigation.tabs.sticky   # 滚动时固定
+    - navigation.sections      # 侧边栏分段显示
+    - navigation.path          # 面包屑导航
+    - navigation.top           # 回到顶部
+    - navigation.indexes       # 索引页
+    - toc.follow               # 跟随滚动高亮目录
+    - search.suggest           # 搜索建议
+    - search.highlight         # 搜索高亮
+    - content.code.copy        # 代码块复制按钮
+    - content.tabs.link        # 内容标签联动
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences       # 代码块增强
+  - pymdownx.tabbed:
+      alternate_style: true    # 内容标签
+  - pymdownx.details           # 折叠详情
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true    # 任务列表
+  - admonition                 # 提示框
+  - footnotes                  # 脚注
+  - attr_list                  # 行内属性
+  - md_in_html                 # HTML内Markdown
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+  - tags
+
+# 构建时排除的文件（不纳入导航校验）
+not_in_nav: |
+  SCHEMA.md
+
+hooks:
+  - hooks/wikilinks.py         # Obsidian [[wikilinks]] 转换
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/baggio8688
+  generator: false             # 移除"Made with Material for MkDocs"页脚
+
+copyright: Copyright &copy; 2026 施秉东 — 制造业数字化转型知识库
+
+nav:
+  - 🏠 首页: index.md
+  - 🏢 实体 (Entities):
+    - entities/index.md
+    - entities/intrinsic.md
+    - entities/iot-analytics.md
+    - entities/locus-robotics.md
+    - entities/manufacturing-leadership-council.md
+    - entities/rsm.md
+  - 📄 文章 (Articles):
+    - raw/articles/index.md
+    - raw/articles/ai-governance-framework-factory-floor.md
+    - raw/articles/why-80-percent-not-automated.md
+    - raw/articles/us-reshoring-boom-one-year.md
+  - 🧠 概念 (Concepts):
+    - concepts/index.md
+    - concepts/ai-governance-manufacturing.md
+    - concepts/data-governance-manufacturing.md
+    - concepts/industrial-automation-gap.md
+    - concepts/manufacturing-reshoring.md
+  - ⚖️ 对比分析 (Comparisons):
+    - comparisons/index.md
+    - comparisons/ai-governance-vs-automation-gap.md
+  - 📋 政策文件 (Policies):
+    - raw/policies/index.md
+    - raw/policies/2025-smart-factory-gradient-cultivation-notice.md
+    - raw/policies/2025-smart-factory-element-conditions.md
+    - raw/policies/2025-smart-manufacturing-scenario-guide.md
+    - raw/policies/xinte-smart-factory-scenario-mapping.md
+    - raw/policies/xinte-scenario-instance-checklist.md
+    - raw/policies/2026-digital-policy-compendium.md
+    - raw/policies/2026-government-work-report.md
+    - raw/policies/2026-miit-ai-dataset-notice.md
+    - raw/policies/2026-miit-ai-manufacturing-action.md
+    - raw/policies/2026-miit-data-foundation-action.md
+    - raw/policies/2026-miit-modata-resonance-notice.md
+    - raw/policies/2026-miit-safety-notice.md
+    - raw/policies/智能制造标准文档合集.md
+    - raw/policies/国标vs草案对比分析-智能制造成熟度模型与评估方法.md
+  - 📝 变更日志: log.md
