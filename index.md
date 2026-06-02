@@ -2,7 +2,7 @@
 
 > 内容目录。所有 wiki 页面按类型列出，附一行摘要。
 > 查询前先读此页，找到相关页面。
-> Last updated: 2026-06-02 | Total pages: 17
+> Last updated: 2026-06-02 | Total pages: 18
 
 ## Entities
 
@@ -48,6 +48,7 @@
 - [[raw/policies/xinte-scenario-instance-checklist|📋 新特能源场景实例清单（核定版） — 20个场景，突出安环/设备/生产/质量一体化管控]]
 - [[raw/policies/2026-digital-policy-compendium|📊 2026年度数字化/智能化/AI/大数据政策汇编]] — 十五五规划纲要、2026政府工作报告及7部委7省市数字化政策总索引
 - [[raw/policies/智能制造标准文档合集|📐 智能制造标准文档合集]] — GB/T 39116-2020/39117-2020/40814-2021 正式国标 + 2024修订草案 + 石化行业标准体系指南
+- [[raw/policies/国标vs草案对比分析-智能制造成熟度模型与评估方法|🔬 国标vs草案对比分析]] — GB/T 39116/39117 现行国标 vs 2024征求意见稿 全面差异对比 + 新特能源卓越级落地建议
 
 ## Queries
 
