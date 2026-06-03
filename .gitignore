@@ -1,16 +1,17 @@
-# MkDocs 鏋勫缓杈撳嚭
-site/
+# Obsidian 配置（每台电脑不一样）
+.obsidian/
 
-# IDE / OS 鍨冨溇
-.DS_Store
+# 系统临时文件
+*.txt
+*.log
+.sync-log.txt
+
+# Obsidian Canvas 草稿
+*.canvas
+
+# Windows 系统文件
 Thumbs.db
-*.swp
-*.swo
-*~
-.vscode/
-.idea/
+Desktop.ini
 
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
+# 脚本（如果之后想提交就删掉这一行）
+mdt-wiki-sync.ps1
