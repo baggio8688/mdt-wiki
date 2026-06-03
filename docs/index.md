@@ -2,7 +2,7 @@
 
 > 内容目录。所有 wiki 页面按类型列出，附一行摘要。
 > 查询前先读此页，找到相关页面。
-> Last updated: 2026-06-02 | Total pages: 18
+> Last updated: 2026-06-03 | Total pages: 31
 
 ## Entities
 
@@ -36,6 +36,14 @@
 <!-- 对比分析页 -->
 
 - [[comparisons/ai-governance-vs-automation-gap|AI治理 vs 自动化鸿沟]] — 技术采用的两种视角：先解决基础设施，再用治理保障规模化
+
+## Prompt Engineering
+
+<!-- 提示工程指南 — 来自 promptingguide.ai 中文版 -->
+
+- [[prompt-engineering/index|📖 提示工程指南]] — 提示工程（Prompt Engineering）概述、发展历程与基本概念
+- [[prompt-engineering/introduction/index|🔰 简介]] — 模型设置、基本概念、提示词要素、设计技巧与示例
+- [[prompt-engineering/applications/index|⚡ 应用]] — 代码生成、函数调用、数据生成、提示函数与案例研究
 
 ## Policies
 
