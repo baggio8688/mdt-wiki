@@ -123,4 +123,20 @@ nav:
     - raw/policies/2026-miit-safety-notice.md
     - raw/policies/智能制造标准文档合集.md
     - raw/policies/国标vs草案对比分析-智能制造成熟度模型与评估方法.md
+  - 🤖 提示工程 (Prompt Engineering):
+    - prompt-engineering/index.md
+    - 简介 (Introduction):
+      - prompt-engineering/introduction/index.md
+      - 模型设置: prompt-engineering/introduction/settings.md
+      - 基本概念: prompt-engineering/introduction/basics.md
+      - 提示词要素: prompt-engineering/introduction/elements.md
+      - 设计技巧: prompt-engineering/introduction/tips.md
+      - 提示词示例: prompt-engineering/introduction/examples.md
+    - 应用 (Applications):
+      - prompt-engineering/applications/index.md
+      - 代码生成: prompt-engineering/applications/coding.md
+      - 函数调用: prompt-engineering/applications/function_calling.md
+      - 生成数据: prompt-engineering/applications/generating.md
+      - 提示函数: prompt-engineering/applications/pf.md
+      - 案例研究: prompt-engineering/applications/workplace_casestudy.md
   - 📝 变更日志: log.md
