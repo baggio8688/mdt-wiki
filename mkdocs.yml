@@ -139,4 +139,10 @@ nav:
       - 生成数据: prompt-engineering/applications/generating.md
       - 提示函数: prompt-engineering/applications/pf.md
       - 案例研究: prompt-engineering/applications/workplace_casestudy.md
+  - 🤖 AI 软件工程 (AI Software Dev):
+    - ai-software-development/index.md
+    - CS146S 课程概览: ai-software-development/cs146s-overview.md
+    - 📺 B站视频资源: ai-software-development/bilibili-mirror.md
+    - 📚 GitHub 资料与中文讲义: ai-software-development/github-resources.md
+    - 🎯 学习路径规划: ai-software-development/learning-path.md
   - 📝 变更日志: log.md

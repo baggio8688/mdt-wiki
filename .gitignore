@@ -1,17 +1,24 @@
-# Obsidian еДжцё╗ц©л╗╣Гдт╡╩р╩яЫё╘
+# Obsidian О©╫О©╫О©╫цёО©╫ц©л╗О©╫О©╫О©╫т╡О©╫р╩О©╫О©╫О©╫О©╫
 .obsidian/
 
-# о╣мЁаый╠нд╪Ч
+# о╣мЁО©╫О©╫й╠О©╫д╪О©╫
 *.txt
 *.log
 .sync-log.txt
 
-# Obsidian Canvas ╡щ╦Е
+# Obsidian Canvas О©╫щ╦О©╫
 *.canvas
 
-# Windows о╣мЁнд╪Ч
+# Windows о╣мЁО©╫д╪О©╫
 Thumbs.db
 Desktop.ini
 
-# ╫е╠╬ё╗хГ╧Шж╝╨СоКлА╫╩╬ми╬╣ТуБр╩ппё╘
+# О©╫е╠О©╫О©╫О©╫О©╫О©╫О©╫ж╝О©╫О©╫О©╫О©╫О©╫А╫╩О©╫О©╫и╬О©╫О©╫О©╫О©╫р╩О©╫пёО©╫
 mdt-wiki-sync.ps1
+
+# MkDocs Ф·└Е╩╨Х╬⌠Е┤╨
+site/
+
+# Python Г╪⌠Е╜≤
+__pycache__/
+*.pyc
