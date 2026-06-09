@@ -145,4 +145,11 @@ nav:
     - 📺 B站视频资源: ai-software-development/bilibili-mirror.md
     - 📚 GitHub 资料与中文讲义: ai-software-development/github-resources.md
     - 🎯 学习路径规划: ai-software-development/learning-path.md
+    - 🧠 Agent-First 开发指南:
+      - ai-software-development/agent-first-dev/index.md
+      - 📐 协作框架: ai-software-development/agent-first-dev/framework.md
+      - 📅 10周课程: ai-software-development/agent-first-dev/agentic-coding.md
+      - 🌐 Web开发基础: ai-software-development/agent-first-dev/app-dev-fundamentals.md
+      - 🚀 上手指南: ai-software-development/agent-first-dev/getting-started.md
+      - 📖 术语表: ai-software-development/agent-first-dev/terminology.md
   - 📝 变更日志: log.md

@@ -18,6 +18,7 @@
   - 与 Coding Agent 协作构建生产级应用
   - 智能体时代的全栈开发自学路径
 - **适合**: 想系统学习 Agent-first 开发的读者
+- **本知识库已整理**: [[ai-software-development/agent-first-dev/index|🧠 完整内容已收录]] 含框架、课程、术语表
 
 ## 📖 中文笔记与作业
 

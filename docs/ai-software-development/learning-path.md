@@ -53,7 +53,7 @@
 **目标**: 用 AI 工具构建可上线的真实项目
 
 ### 学习资料
-- **最佳指南**: [AlexAnys/agent-first-dev](https://github.com/AlexAnys/agent-first-dev)（29⭐中文自学路径）
+- **最佳指南**: [AlexAnys/agent-first-dev](https://github.com/AlexAnys/agent-first-dev)（29⭐中文自学路径，本知识库已整理 ➔ [[ai-software-development/agent-first-dev/index|🧠 完整内容]])
 - **实践要点**:
   - 与 Coding Agent 的协作模式
   - 从原型到生产级的工程化
